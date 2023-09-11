@@ -7,7 +7,7 @@ track at ALX Africa.
 
 ## Author :
 
-* **Nwabueze Franklin (Solo)** <[GideonIgbon](https://github.com/GideonIgbon)>
+* **Gideon Igbon** <[GideonIgbon](https://github.com/GideonIgbon)>
 
 ## Acknowledgements 🌍:
 
