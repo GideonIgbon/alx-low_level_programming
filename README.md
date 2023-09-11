@@ -2,12 +2,12 @@
 ## C Programming-Language
 
 This repository contains programs written for the low-level programming
-track at ALX Africa.  I am currently learning C.
+track at ALX Africa.
 
 
 ## Author :
 
-* **Nwabueze Franklin (Solo)** <[NwabuezeFranklin](https://github.com/NwabuezeFranklin)>
+* **Nwabueze Franklin (Solo)** <[GideonIgbon](https://github.com/GideonIgbon)>
 
 ## Acknowledgements 🌍:
 
